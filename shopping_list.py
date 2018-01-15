@@ -5,7 +5,7 @@ shopping_list = []
 print("""
 --------------------------------------------------------------------
 The Shopping List
-Copyright 2016 ExplodingCow
+Copyright 2018 ExplodingCow
 This is a simple shopping list intended for educational purposes only.
 ---------------------------------------------------------------------
 What should we pick up at the store?
